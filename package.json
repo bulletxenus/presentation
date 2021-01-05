@@ -1,0 +1,11 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "react native presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Dmitry Khamitsevich",
+  "license": "ISC"
+}
